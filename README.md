@@ -2,7 +2,7 @@
 
 This is a minimal reproduction of an issue with Unocss(with presetAttributify) and Astro(with SolidJS and Island).
 
-## Repetition Steps
+## Steps
 
 - Clone the repo
 - `pnpm install`
